@@ -79,7 +79,7 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
